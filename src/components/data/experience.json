@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "role": "Green Valley Public School",
+    "location": "Pethvadgoan",
+    "experiences": [
+      "Board-SSC",
+      "Percentage=80.20%"
+    ]
+  },
+  {
+    "id": 2,
+    "Board": "MSBT",
+    "role": "Computer Science & Engineering",
+    "startDate": "Start-2019",
+    "endDate": "Passing Year-2022",
+    "experiences": [
+      "Diploma-Sanjay Ghodawat Polytechnic Atigre..",
+      "Percentage=80.34%"
+    ]
+  },
+  {
+    "id": 3,
+    "role": "Computer Science & Engineering",
+    "startDate": "Start-2022",
+    "endDate": "Passing Year-2025",
+    "experiences": [
+      "Degree-Sanjay Ghodawat University Kolhapur",
+      "CGPA-8.88 "
+    ]
+  }
+]
